@@ -6,23 +6,18 @@ This Application collects some Personal Data from its Users.
 Policy summary
 --------------
 
-Personal Data collected for the following purposes and using the following services:
-------------------------------------------------------------------------------------
+### Personal Data collected for the following purposes and using the following services:
 
 -   ### Device permissions for Personal Data access
 
-    -   ### Device permissions for Personal Data access
-
-        Personal Data: Phone permission
+    Personal Data: Phone permission
 
 Full policy
 -----------
 
-Data Controller and Owner
--------------------------
+### Data Controller and Owner
 
-Types of Data collected
------------------------
+##### Types of Data collected
 
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Phone permission.
 
@@ -82,7 +77,7 @@ Personal Data is collected for the following purposes and using the following se
 
     This Application requests certain permissions from Users that allow it to access the User's device Data as described below.
 
-    #### Device permissions for Personal Data access (This Application)
+-   ### Device permissions for Personal Data access (This Application)
 
     This Application requests certain permissions from Users that allow it to access the User's device Data as summarized here and described within this document.
 
